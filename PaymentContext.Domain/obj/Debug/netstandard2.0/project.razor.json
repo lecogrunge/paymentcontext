@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
