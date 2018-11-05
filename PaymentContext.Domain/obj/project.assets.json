@@ -224,11 +224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "packagesPath": "C:\\Users\\BSI91083\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "outputPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -247,8 +247,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }

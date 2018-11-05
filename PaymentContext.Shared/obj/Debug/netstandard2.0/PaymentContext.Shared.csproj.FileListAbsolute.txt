@@ -7,3 +7,12 @@ C:\Users\BSI91083\Desktop\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\
 C:\Users\BSI91083\Desktop\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
 C:\Users\BSI91083\Desktop\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Users\BSI91083\Desktop\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\BSI91083\Desktop\Diversos\VSCode\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb

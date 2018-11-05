@@ -5791,11 +5791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "projectName": "PaymentContext.Tests",
-      "projectPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "packagesPath": "C:\\Users\\BSI91083\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Tests\\obj\\",
+      "outputPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5814,11 +5814,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-              "projectPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+            "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+              "projectPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
             },
-            "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "c:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\BSI91083\\Desktop\\Diversos\\VSCode\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
